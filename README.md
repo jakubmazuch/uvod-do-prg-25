@@ -1,2 +1,2 @@
-# uvod-do-prg-25
-Podpora ke kurzu Úvod do programování (PřF UK)
+# Úvod do programování (MZ370P19) / ZS 2024/2025
+Zde bude nějaké povídání
